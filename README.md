@@ -10,11 +10,10 @@ Je débute actuellement mon cursus en informatique avec une forte envie d'appren
 ## 🐍 Mon calendrier de contribution
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alex-CSSE/Alex-CSSE/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alex-CSSE/Alex-CSSE/output/github-contribution-grid-snake.svg">
-  <img alt="Mon serpent de contribution" src="https://raw.githubusercontent.com/Alex-CSSE/Alex-CSSE/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alex-CSSE/Alexcsse/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alex-CSSE/Alexcsse/output/github-contribution-grid-snake.svg">
+  <img alt="Mon serpent de contribution" src="https://raw.githubusercontent.com/Alex-CSSE/Alexcsse/output/github-contribution-grid-snake.svg">
 </picture>
-
 ---
 
 ### 🛠️ Mon Stack Technique (En cours d'apprentissage)
