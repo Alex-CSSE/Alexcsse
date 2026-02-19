@@ -7,8 +7,7 @@ Je débute actuellement mon cursus en informatique avec une forte envie d'appren
 
 ## 🐍 Mon calendrier de contribution
 
-![snake gif](https://raw.githubusercontent.com/AlexCSSE/AlexCSSE/output/github-contribution-grid-snake.svg)
----
+![Snake animation](https://github.com/Alex-CSSE/Alex-CSSE/blob/output/github-contribution-grid-snake.svg)---
 
 ### 🛠️ Mon Stack Technique (En cours d'apprentissage)
 
