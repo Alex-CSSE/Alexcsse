@@ -34,8 +34,8 @@ Je débute actuellement mon cursus en informatique avec une forte envie d'appren
 ---
 
 ### 📫 Me contacter
-* 📧 **Email** : [Ton.Email@exemple.com]
-* 📱 **Téléphone** : [06 . XX . XX . XX . XX]
+* 📧 **Email** : cousseau.al  @  gmail  .  com
+* 📱 **Téléphone** : 06 / 50 / 92 / 64 / 88
 
 ---
 *Dernière mise à jour : Février 2026*
