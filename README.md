@@ -1,13 +1,21 @@
-# 👋 Salut, moi c'est Alex !
+# 👋 Salut, moi c'est Alex-CSSE !
 
 ### 🎓 Étudiant en BTS SIO (Services Informatiques aux Organisations)
 **Option SLAM (Solutions Logicielles et Applications Métier)**
 
 Je débute actuellement mon cursus en informatique avec une forte envie d'apprendre. Je me concentre sur la compréhension des bases de l'algorithmique, de la programmation et de la cybersécurité pour construire des bases solides.
 
+---
+
 ## 🐍 Mon calendrier de contribution
 
-![Snake animation](https://github.com/Alex-CSSE/Alex-CSSE/blob/output/github-contribution-grid-snake.svg)---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alex-CSSE/Alex-CSSE/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alex-CSSE/Alex-CSSE/output/github-contribution-grid-snake.svg">
+  <img alt="Mon serpent de contribution" src="https://raw.githubusercontent.com/Alex-CSSE/Alex-CSSE/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 
 ### 🛠️ Mon Stack Technique (En cours d'apprentissage)
 
@@ -27,8 +35,8 @@ Je débute actuellement mon cursus en informatique avec une forte envie d'appren
 ---
 
 ### 📫 Me contacter
-* 📧 **Email** : cousseau.al   @  gmail   .com
-* 📱 **Téléphone** : 06 . 50 . 64 . 88
+* 📧 **Email** : [Ton.Email@exemple.com]
+* 📱 **Téléphone** : [06 . XX . XX . XX . XX]
 
 ---
 *Dernière mise à jour : Février 2026*
