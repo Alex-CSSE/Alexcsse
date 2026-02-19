@@ -5,7 +5,9 @@
 
 Je débute actuellement mon cursus en informatique avec une forte envie d'apprendre. Je me concentre sur la compréhension des bases de l'algorithmique, de la programmation et de la cybersécurité pour construire des bases solides.
 
-![Snake animation](https://github.com/[AlexCSSE]/[AlexCSSE]/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Mon calendrier de contribution
+
+![snake gif](https://raw.githubusercontent.com/AlexCSSE/AlexCSSE/output/github-contribution-grid-snake.svg)
 ---
 
 ### 🛠️ Mon Stack Technique (En cours d'apprentissage)
